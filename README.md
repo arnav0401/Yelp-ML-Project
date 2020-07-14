@@ -1,0 +1,2 @@
+# Yelp-ML-Project
+Using a Multiple Linear Regression algorithm, I investigated the factors that most affect a restaurant's Yelp rating and predict the Yelp rating for any given restaurant which has not yet been made available at their site.  In the end, this study gives essential insights to business owners on how to fill market gaps, improve customer service, build brand loyalty and also improve their chances of attracting consumers through a multi-surfed website like Yelp
